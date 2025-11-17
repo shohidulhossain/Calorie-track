@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Calorie-track",
+    "slug": "calorie-track",
+    "web": {
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
